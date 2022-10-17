@@ -1,3 +1,4 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vis976&label=Profile%20views&color=0e75b6&style=flat" alt="vis976" /> </p>
