@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Vishal Chaubey</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I am a full stack web developer. An experienced website developer specialized in responsive websites and feature-rich web apps. I has worked on numerous projects involving front and back- end development.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vis976&label=Profile%20views&color=0e75b6&style=flat" alt="vis976" /> </p>
