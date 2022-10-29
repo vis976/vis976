@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal Chaubey</h1>
-<h3 align="center">Full Stack Web Developer (MERN)</h3>
-<br/><br/>
-<img src="https://imgs.search.brave.com/fc83ez-H7N_n6DLVoaJPQw7lUpQzXFLkm4UI2oKpJdQ/rs:fit:1050:467:1/g:ce/aHR0cHM6Ly9zY290/Y2gtcmVzLmNsb3Vk/aW5hcnkuY29tL2lt/YWdlL3VwbG9hZC93/XzEwNTAscV9hdXRv/Omdvb2QsZl9hdXRv/L3YxNTQwNTQ1NDI2/L3R6czUwbWpybG9w/djg1cjNxanBxLmpw/Zw"/>
 <h3 align="center">I am a full stack web developer. An experienced website developer specialized in responsive websites and feature-rich web apps. I has worked on numerous projects involving front and back- end development.</h3>
+<br/>
+<img src="https://imgs.search.brave.com/fc83ez-H7N_n6DLVoaJPQw7lUpQzXFLkm4UI2oKpJdQ/rs:fit:1050:467:1/g:ce/aHR0cHM6Ly9zY290/Y2gtcmVzLmNsb3Vk/aW5hcnkuY29tL2lt/YWdlL3VwbG9hZC93/XzEwNTAscV9hdXRv/Omdvb2QsZl9hdXRv/L3YxNTQwNTQ1NDI2/L3R6czUwbWpybG9w/djg1cjNxanBxLmpw/Zw"/>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vis976&label=Profile%20views&color=0e75b6&style=flat" alt="vis976" /> </p>
@@ -38,14 +38,8 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
-<img src = "https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="center" alt="tailwindcss"/>
-<br/>
-<br/>
-  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
-  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-  
+<img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
 </div>
- <br/>
   <div align="center"><h3 align="center">Backend</h3> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
@@ -63,8 +57,6 @@
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
    <br/>
-<br/>
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
  </div>
 </div>
 
