@@ -67,7 +67,7 @@
 
  - Pharmeasy-Clone  **[Github Repository](https://github.com/vis976/frantic-zoo-5736)**
 
- - PCJ Clone **[Github Repository](https://github.com/rovin-singh/pcjewellers.git)**
+ - pcjeweller-Clone **[Github Repository](https://github.com/rovin-singh/pcjewellers.git)**
 
  - Outlookindia-Clone **[Github Repository](https://github.com/vis976/disgusted-smell-1669)**
 
