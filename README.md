@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Chaubey</h1>
 <h3 align="center">Full Stack Web Developer (MERN)</h3>
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<br/><br/>
+<img src="https://imgs.search.brave.com/fc83ez-H7N_n6DLVoaJPQw7lUpQzXFLkm4UI2oKpJdQ/rs:fit:1050:467:1/g:ce/aHR0cHM6Ly9zY290/Y2gtcmVzLmNsb3Vk/aW5hcnkuY29tL2lt/YWdlL3VwbG9hZC93/XzEwNTAscV9hdXRv/Omdvb2QsZl9hdXRv/L3YxNTQwNTQ1NDI2/L3R6czUwbWpybG9w/djg1cjNxanBxLmpw/Zw"/>
 <h3 align="center">I am a full stack web developer. An experienced website developer specialized in responsive websites and feature-rich web apps. I has worked on numerous projects involving front and back- end development.</h3>
 
 
